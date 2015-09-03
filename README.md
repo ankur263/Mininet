@@ -8,4 +8,4 @@ Odd host can contact each other and even can contact each other
 
 How to run:
 python CustomNet.py X Y
-where X is the number of host per switch and Y is numeber of switches in topology
+where X is the number of host per switch and Y is number of switches in topology
